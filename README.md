@@ -1,21 +1,151 @@
-# 💫 About Me:
-Hi there, I'm  Sakib<br><br>I’m a developer with experience across various programming languages, <br>frameworks, and modern web technologies. I enjoy building responsive, <br>user-friendly, and accessible web applications that focus on great <br>user experiences.<br><br>I’m passionate about:<br><br>⚙️ Crafting clean, efficient, and maintainable code<br><br>🌐 Working across the full stack<br><br>🚀 Exploring modern tools, frameworks, and best practices<br><br>📚 Continuously learning and leveling up my skills<br><br>Always excited to dive into new projects, collaborate, and bring ideas to life.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAHMUD%20ALI%20SAKIB&fontSize=46&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20web%2C%20one%20commit%20at%20a%20time&descAlignY=58&descAlign=50" />
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmudalisakib@gmail.com) 
+<a href="https://github.com/mahmud-ali-sakib">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22Mahmud+Ali+Sakib%22;while(true)+%7B+code(); %7D;Full-Stack+%7C+React+%2F+Next.js+%2F+Node;Turning+%E2%98%95+into+%3C%2F%3E" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahmud-ali-sakib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahmud-ali-sakib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-ali-sakib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahmud-ali-sakib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Profile Views](https://komarev.com/ghpvc/?username=mahmud-ali-sakib&color=00fff2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/mahmud-ali-sakib?color=00fff2&label=FOLLOWERS&style=for-the-badge)
 
----
-[![](https://visitcount.itsvg.in/api?id=mahmud-ali-sakib&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+```ansi
+┌─────────────────────────────────────────────────────────────┐
+│  root@sakib:~# ./boot_sequence.sh                            │
+│                                                                │
+│  [ OK ] Loading identity.......................... sakib     │
+│  [ OK ] Mounting stack............................ MERN+TS   │
+│  [ OK ] Initializing creativity module............ ONLINE    │
+│  [ OK ] Establishing uplink to github.com......... CONNECTED │
+│  [ OK ] Status..................................... READY    │
+│                                                                │
+│  system > standing by for your next great idea 🚀            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## ⟢ ABOUT_ME.exe
+
+<table>
+<tr>
+<td width="60%">
+
+```yaml
+identity:
+  name: "Mahmud Ali Sakib"
+  role: "Full-Stack Developer"
+  based_in: "Bangladesh"
+  focus: ["Web Apps", "UI/UX", "APIs", "AI Tooling"]
+
+mission: >
+  Building responsive, accessible, user-first web
+  experiences — from pixel-perfect frontends to
+  scalable backend systems.
+
+currently:
+  learning: "Advanced system design & AI-driven tooling"
+  exploring: "Next.js server components, agentic apps"
+  collaborating_on: "open to interesting projects"
+
+fun_fact: "I debug faster with coffee ☕ than without"
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahmud-ali-sakib&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00ea&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ⟢ TECH_STACK.json
+
+<div align="center">
+
+**⚡ Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=dark" />
+
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,graphql&theme=dark" />
+
+**🛠️ Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,gcp,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## ⟢ SYSTEM_METRICS.log
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-ali-sakib&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com/?user=mahmud-ali-sakib&theme=synthwave&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff2&currStreakLabel=00fff2" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmud-ali-sakib&theme=synthwave&hide_border=true&bg_color=0d1117&color=00fff2&line=ff00ea&point=ffffff" width="100%" />
+
+</div>
+
+<br/>
+
+## ⟢ CONTRIBUTION_MATRIX.gif
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mahmud-ali-sakib/mahmud-ali-sakib/output/github-contribution-grid-snake.svg" width="100%" alt="snake contribution graph" />
+
+</div>
+
+<br/>
+
+## ⟢ ACHIEVEMENTS.dll
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahmud-ali-sakib&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" />
+
+</div>
+
+<br/>
+
+## ⟢ CONNECT.sh
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-mahmudalisakib@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00fff2&labelColor=0d1117)](mailto:mahmudalisakib@gmail.com)
+[![GitHub](https://img.shields.io/badge/-mahmud--ali--sakib-0d1117?style=for-the-badge&logo=github&logoColor=ff00ea&labelColor=0d1117)](https://github.com/mahmud-ali-sakib)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```ansi
+root@sakib:~# echo "thanks for visiting — let's build something great"
+> thanks for visiting — let's build something great ✦
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
