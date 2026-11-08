@@ -3,11 +3,11 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+##  About Me
+-  <em>A professional web developer with a skill of crafting visually stunning and highly functional websites. Combining creativity and technical expertise. I transform your vision into digital masterpiece that excels in both appearance and performance.</em>
 
 
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats & Trophies
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=mahmud-ali-sakib&theme=github-dark&mode=dark" alt="mahmud-ali-sakib's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=mahmud-ali-sakib&theme=nightowl&hide_border=true&cache_seconds=86400" alt="mahmud-ali-sakib's GitHub Streak" width="49%" />
@@ -26,7 +26,7 @@
 
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> </p>
@@ -43,16 +43,6 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/mahmud-ali-sakib/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:mahmudalisakib@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=mahmud-ali-sakib&theme=github-dark&mode=dark&style=snake" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mahmud-ali-sakib&theme=github-dark&mode=dark&style=snake" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=mahmud-ali-sakib&theme=github-dark&mode=dark&style=snake" />
-</picture>
-
-
-
 <div align="center">
   <!---->
 </div>
-
-<p align="center"><sub>Mahmud Ali Sakib · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
