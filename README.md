@@ -17,9 +17,6 @@
   <img src="https://www.gitskins.com/api/section/stack?username=mahmud-ali-sakib&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=mahmud-ali-sakib&theme=github-dark&mode=dark" alt="Mahmud Ali Sakib's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=mahmud-ali-sakib&theme=github-dark&mode=dark" alt="mahmud-ali-sakib's Activity Graph" />
 </p>
 
